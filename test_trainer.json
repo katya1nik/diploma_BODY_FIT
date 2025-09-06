@@ -1,0 +1,10 @@
+{
+    "first_name": "Сергей",
+    "middle_name": "Сергеевич", 
+    "last_name": "Сергеев",
+    "phone": "+7-911-222-33-44",
+    "name_of_training_session": "Бокс",
+    "email": "sergeev@fitness.ru",
+    "specialization": "Бокс и единоборства",
+    "experience_years": 4
+}
